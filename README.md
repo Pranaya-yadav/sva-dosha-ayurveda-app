@@ -8,7 +8,7 @@ For Beyond the Code: Human-Centered Tech: An ayurvedic wellness assistant with U
 **Submission Date:** 31st May 2025
 
 ## 🔗 Links
-- **Live Figma Prototype:** https://www.figma.com/proto/34YMriCgqKqYMwroEKowbD/DesignAThon?page-id=0%3A1&node-id=59-1623&p=f&viewport=-1585%2C1246%2C0.21&t=AS0mJ8I6GYURpSyS-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=59%3A1623
+- **Live Figma Prototype:** https://www.figma.com/proto/NVBp1giElu333RjXsDMsOq/Beyond-the-Code?page-id=0%3A1&node-id=59-1623&p=f&viewport=488%2C467%2C0.03&t=VrCbVaHAHWMIY6my-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=59%3A1623&show-proto-sidebar=1
 - **Pitch Video:** [Video Link]
 - **Design System:** [Design System Link]
 
