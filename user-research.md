@@ -1,7 +1,5 @@
 # User Research
 
-## Competative Analysis 
-
 ## Key Research Insights
 
 ### Primary Barriers to Ayurvedic Wellness:
