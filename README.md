@@ -1,6 +1,6 @@
 # Sva - AI-Powered Ayurvedic Wellness Assistant
 
-**For Beyond the Code: Human-Centered Tech: An ayurvedic wellness assistant with UX-first design
+For Beyond the Code: Human-Centered Tech: An ayurvedic wellness assistant with UX-first design
 
 ## 🏆 Hackathon Submission
 **Challenge:** Healthcare Interface Design - UX-First Solutions  
