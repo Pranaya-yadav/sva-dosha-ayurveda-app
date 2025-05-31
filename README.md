@@ -10,7 +10,6 @@ For Beyond the Code: Human-Centered Tech: An ayurvedic wellness assistant with U
 ## 🔗 Links
 - **Live Figma Prototype:** https://www.figma.com/proto/NVBp1giElu333RjXsDMsOq/Beyond-the-Code?page-id=0%3A1&node-id=59-1623&p=f&viewport=488%2C467%2C0.03&t=VrCbVaHAHWMIY6my-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=59%3A1623&show-proto-sidebar=1
 - **Pitch Video:** [Video Link]
-- **Design System:** [Design System Link]
 
 ## 🎯 Problem Statement
 Interest in Ayurveda is growing and more people seek holistic approaches to mental and physical wellbeing, but understanding one's ayurvedic constitution or dosha and what it means remains confusing and inaccessible to most. While the internet is flooded with overwhelming amounts of generic Ayurvedic content that could apply to anyone, it’s hard to find personalized guidance tailored to one’s unique constitution.  This creates a critical gap between growing wellness curiosity and practical, personalized entry points for authentic self-exploration in Ayurveda.
